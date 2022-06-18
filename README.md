@@ -1,13 +1,2 @@
-# 2D-Graphics-project
-a.	Changing the background of window to be white
-b.	Try to change the shape of your window mouse
-c.	User must interact with window using mouse only 
-d.	Try to make combination between your console and window 
-e.	option to choose shape color before drawing from menu
-f.	Implementation item to clear screen from shapes
-g.	Implementation save function for all data in screen 
-h.	Implementation load function to load data from files
-i.	Implementation line algorithms [DDA, Midpoint and parametric]
-j.	Implementation Circle algorithms (Direct, Polari iterative Polar, midpoint and modified Midpoint)
-k.	Filling Circle with lines after taking filling quarter from user
-l.	Ellipse Algorithms
+# Painter-Application
+A small module for painter application that can draw each of line, circle , ellipse and clipping rectangle an implementation of mid point and direct algorithm for each shape and thir impovemnt except the ellipse and rectangle using point clipping and line clipping algorithm
